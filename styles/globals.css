@@ -1,0 +1,9 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #181818; /* Dark background color */
+  color: white; /* Optional: set text color to white for contrast */
+}
